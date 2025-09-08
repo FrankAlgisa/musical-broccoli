@@ -2,7 +2,7 @@
     "user": "A",
     "password": "A",
     "qrall": true,
-    "server5": true,
+    "server5": False,
     "appello": true,
     "s_pass": "Pus",
     "a_pass": "Moltosus"
