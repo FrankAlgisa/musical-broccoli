@@ -1,9 +1,9 @@
 {
     "user": "A",
     "password": "A",
-    "qrall": true,
+    "qrall": True,
     "server5": False,
-    "appello": true,
+    "appello": True,
     "s_pass": "Pus",
     "a_pass": "Moltosus"
 }
