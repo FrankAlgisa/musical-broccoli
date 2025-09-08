@@ -1,7 +1,7 @@
 {
     "user": "A",
     "password": "A",
-    "qrall": "True",
+    "qrall": "False",
     "server5": "False",
     "appello": "True",
     "s_pass": "Pus",
