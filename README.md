@@ -1,0 +1,1 @@
+- "img" deve essere sempre presente come paramentro, se è vuoto ("") allora default, se contiene una stringa >0 incolla l'immagine al posto del default
